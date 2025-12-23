@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BenchmarkSuite1/BenchmarkSuite1.csproj" />
+  <Project Path="ML Math Image Process/ML Math Image Process.csproj" />
+</Solution>
